@@ -29,7 +29,7 @@ Before opening the project, make sure the following are installed:
 # 2. Open the Project
 
 1. Extract the complete project ZIP file.
-2. Open the `.sln` solution file in Visual Studio.
+2. Open the `.slnx solution file in Visual Studio.
 3. Allow Visual Studio to restore any existing NuGet packages.
 4. Build the solution using:
 

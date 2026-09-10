@@ -23,9 +23,9 @@ namespace KhayelitshaLibrary
 
         }
 
-        // =========================================================
+        
         // MEMBERS
-        // =========================================================
+        
 
         private void LoadMembers(string searchText = "")
         {
@@ -89,9 +89,9 @@ namespace KhayelitshaLibrary
             LoadMembers();
         }
 
-        // =========================================================
+        
         // BOOKS
-        // =========================================================
+        
 
         private void LoadBooks(string searchText = "")
         {
@@ -154,9 +154,9 @@ namespace KhayelitshaLibrary
             LoadBooks();
         }
 
-        // =========================================================
+        
         // LOAN FILTER
-        // =========================================================
+        
 
         private void LoadLoans()
         {
@@ -304,9 +304,9 @@ namespace KhayelitshaLibrary
             FilterLoans();
         }
 
-        // =========================================================
+        
         // OVERDUE REPORT
-        // =========================================================
+        
 
         private void LoadOverdueLoans()
         {
@@ -361,9 +361,9 @@ namespace KhayelitshaLibrary
             }
         }
 
-        // =========================================================
+        
         // LOAN SUMMARY
-        // =========================================================
+        
 
         private void LoadLoanSummary()
         {
@@ -422,9 +422,9 @@ namespace KhayelitshaLibrary
             }
         }
 
-        // =========================================================
+        
         // REFRESH EVERYTHING
-        // =========================================================
+        
 
         private void btnRefresh_Click(
             object sender,

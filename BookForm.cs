@@ -22,9 +22,9 @@ namespace KhayelitshaLibrary
 
         }
         
-        // =========================================================
+        
         // BOOK TITLE MANAGEMENT
-        // =========================================================
+        
 
         private void LoadBookTitles()
         {
@@ -148,9 +148,9 @@ namespace KhayelitshaLibrary
             }
         }
 
-        // =========================================================
+        
         // ADD BOOK TITLE
-        // =========================================================
+        
 
         private void btnAddTitle_Click(object sender, EventArgs e)
         {
@@ -256,9 +256,9 @@ namespace KhayelitshaLibrary
             }
         }
 
-        // =========================================================
+        
         // SELECT BOOK TITLE
-        // =========================================================
+        
 
         private void dgvBookTitles_CellClick(
             object sender,
@@ -291,9 +291,9 @@ namespace KhayelitshaLibrary
             }
         }
 
-        // =========================================================
+        
         // UPDATE BOOK TITLE
-        // =========================================================
+        
 
         private void btnUpdateTitle_Click(object sender, EventArgs e)
         {
@@ -411,9 +411,9 @@ namespace KhayelitshaLibrary
             }
         }
 
-        // =========================================================
+        
         // DELETE BOOK TITLE
-        // =========================================================
+        
 
         private void btnDeleteTitle_Click(object sender, EventArgs e)
         {
@@ -513,9 +513,9 @@ namespace KhayelitshaLibrary
             }
         }
 
-        // =========================================================
+        
         // CLEAR BOOK TITLE
-        // =========================================================
+        
 
         private void btnClearTitle_Click(object sender, EventArgs e)
         {
@@ -534,9 +534,9 @@ namespace KhayelitshaLibrary
             dgvBookTitles.ClearSelection();
         }
 
-        // =========================================================
+        
         // ADD PHYSICAL BOOK COPY
-        // =========================================================
+        
 
         private void btnAddCopy_Click(object sender, EventArgs e)
         {
@@ -616,9 +616,9 @@ namespace KhayelitshaLibrary
             }
         }
 
-        // =========================================================
+        
         // SELECT PHYSICAL COPY
-        // =========================================================
+        
 
         private void dgvBookCopies_CellClick(
             object sender,
@@ -650,9 +650,9 @@ namespace KhayelitshaLibrary
             }
         }
 
-        // =========================================================
+        
         // UPDATE PHYSICAL COPY
-        // =========================================================
+        
 
         private void btnUpdateCopy_Click(object sender, EventArgs e)
         {
@@ -742,9 +742,9 @@ namespace KhayelitshaLibrary
             }
         }
 
-        // =========================================================
+        
         // DELETE PHYSICAL COPY
-        // =========================================================
+        
 
         private void btnDeleteCopy_Click(object sender, EventArgs e)
         {
@@ -839,9 +839,9 @@ namespace KhayelitshaLibrary
             }
         }
 
-        // =========================================================
+        
         // CLEAR COPY FIELDS
-        // =========================================================
+        
 
         private void ClearCopyFields()
         {

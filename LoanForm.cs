@@ -26,9 +26,9 @@ namespace KhayelitshaLibrary
 
         }
 
-        // =========================================================
+        
         // LOAD MEMBERS
-        // =========================================================
+        
 
         private void LoadMembers()
         {
@@ -68,9 +68,9 @@ namespace KhayelitshaLibrary
             }
         }
 
-        // =========================================================
+        
         // LOAD AVAILABLE BOOK COPIES INTO COMBOBOX
-        // =========================================================
+        
 
         private void LoadAvailableBookCopies()
         {
@@ -128,9 +128,9 @@ namespace KhayelitshaLibrary
             }
         }
 
-        // =========================================================
+        
         // LOAD AVAILABLE BOOKS TABLE
-        // =========================================================
+        
 
         private void LoadAvailableBooks()
         {
@@ -189,9 +189,9 @@ namespace KhayelitshaLibrary
             }
         }
 
-        // =========================================================
+        
         // LOAD STAFF
-        // =========================================================
+        
 
         private void LoadStaff()
         {
@@ -232,9 +232,9 @@ namespace KhayelitshaLibrary
             }
         }
 
-        // =========================================================
+        
         // LOAD CURRENT LOANS TABLE
-        // =========================================================
+        
 
         private void LoadCurrentLoans()
         {
@@ -321,9 +321,9 @@ namespace KhayelitshaLibrary
             }
         }
 
-        // =========================================================
+        
         // ISSUE BOOK
-        // =========================================================
+        
 
         private void btnIssue_Click(object sender, EventArgs e)
         {
@@ -610,9 +610,9 @@ namespace KhayelitshaLibrary
             }
         }
 
-        // =========================================================
+        
         // RETURN BOOK
-        // =========================================================
+        
 
         private void btnReturn_Click(object sender, EventArgs e)
         {
@@ -802,9 +802,9 @@ namespace KhayelitshaLibrary
             }
         }
 
-        // =========================================================
+        
         // CLICK AVAILABLE BOOK
-        // =========================================================
+        
 
         private void dgvAvailableBooks_CellClick(
             object sender,
@@ -839,9 +839,9 @@ namespace KhayelitshaLibrary
             }
         }
 
-        // =========================================================
+        
         // CLICK CURRENT LOAN
-        // =========================================================
+        
 
         private void dgvCurrentLoans_CellClick(
             object sender,
@@ -883,9 +883,9 @@ namespace KhayelitshaLibrary
             }
         }
 
-        // =========================================================
+        
         // CLEAR
-        // =========================================================
+        
 
         private void btnClear_Click(object sender, EventArgs e)
         {
